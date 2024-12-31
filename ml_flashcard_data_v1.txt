@@ -1,0 +1,33 @@
+Q 1: Explain the Bias-Variance Tradeoff? |
+Answer 1: Bias: Systematic error due to simplifying assumptions made by the learning algorithm. High bias models tend to underfit the training data.
+Variance: Sensitivity of the model to training data. High variance models overfit the training data and perform poorly on unseen data.
+Tradeoff: Finding the right balance between bias and variance is crucial. Complex models often have low bias but high variance, while simple models have high bias and low variance. Techniques like regularization can help find this balance  |
+Q 2: What are some common techniques for handling imbalanced datasets?  |
+Answer 2: Oversampling, Undersampling, Class Weighting  |
+Q 3: What is the difference between supervised and unsupervised learning?  |
+Answer 2: Supervised Learning: Involves learning from labeled data, where the algorithm learns to map inputs to known outputs. Examples: regression, classification.
+Unsupervised Learning: Involves learning from unlabeled data, where the algorithm discovers patterns and structures within the data. Examples: clustering, dimensionality reduction. |
+Q 4: What is cross-validation, and why is it important? |
+Cross-validation is a technique used to evaluate the performance of a machine learning model on unseen data. It involves splitting the data into multiple folds, training the model on a subset of the folds, and evaluating it on the remaining fold. This process is repeated multiple times, and the average performance across all folds is used as the final evaluation metric.
+Cross-validation helps to prevent overfitting and provides a more robust estimate of model performance. |
+Q 5:  What is regularization and its benefits? |
+Regularization is a technique used to prevent overfitting by adding a penalty term to the loss function....Common types of regularization include L1 regularization (Lasso) and L2 regularization (Ridge).
+Benefits:Reduces overfitting by penalizing complex models...Improves model generalization to unseen data. |
+What is overfitting in machine learning? |
+Overfitting occurs when a model learns noise along with patterns, causing poor generalization on new data. |
+What is the purpose of cross-validation? |
+Cross-validation evaluates model performance by splitting data into multiple training and testing subsets. |
+What is a confusion matrix? |
+A confusion matrix evaluates classification models by summarizing true positives, true negatives, false positives, and false negatives. |
+What are hyperparameters in machine learning? |
+Hyperparameters are external configuration settings (e.g., learning rate, depth) adjusted before model training. |
+What is the curse of dimensionality? |
+The curse of dimensionality refers to challenges when working with high-dimensional data, such as sparse observations and overfitting. |
+What is PCA, and why is it used? |
+Principal Component Analysis (PCA) reduces dimensionality by transforming data into uncorrelated principal components to simplify models. |
+What is gradient descent? |
+Gradient descent optimizes model parameters by iteratively minimizing a loss function. |
+How do decision trees decide splits? |
+Decision trees split data based on metrics like Gini impurity or information gain to maximize separation. |
+What is a support vector machine (SVM)? |
+SVM is an algorithm that finds the hyperplane maximizing the margin between classes in classification tasks. |
