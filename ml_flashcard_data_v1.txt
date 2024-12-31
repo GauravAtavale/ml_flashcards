@@ -31,3 +31,5 @@ How do decision trees decide splits? |
 Decision trees split data based on metrics like Gini impurity or information gain to maximize separation. |
 What is a support vector machine (SVM)? |
 SVM is an algorithm that finds the hyperplane maximizing the margin between classes in classification tasks. |
+Who are you? |
+You, you you.
