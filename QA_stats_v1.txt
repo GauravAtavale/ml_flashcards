@@ -1,0 +1,25 @@
+What is the difference between population and sample? | Population refers to the entire group of individuals or items of interest, while a sample is a subset of the population used to make inferences about the whole. |
+What is p-value in hypothesis testing? | The p-value indicates the probability of observing the given data, or something more extreme, assuming the null hypothesis is true. |
+Define standard deviation and variance. | Standard deviation measures the spread of data around the mean, while variance is the square of the standard deviation. |
+What is a normal distribution? | A normal distribution is a bell-shaped curve where data is symmetrically distributed around the mean, with 68% of values within 1 standard deviation. |
+Explain the concept of correlation. | Correlation measures the strength and direction of the linear relationship between two variables. |
+What is the difference between correlation and causation? | Correlation indicates a relationship between variables, while causation implies that one variable directly affects the other. |
+What are Type I and Type II errors in hypothesis testing? | Type I error is rejecting a true null hypothesis, while Type II error is failing to reject a false null hypothesis. |
+What is the Central Limit Theorem? | The Central Limit Theorem states that the sampling distribution of the sample mean approaches a normal distribution as the sample size increases. |
+What is the purpose of regression analysis? | Regression analysis is used to model relationships between dependent and independent variables and make predictions. |
+What is multicollinearity in regression? | Multicollinearity occurs when independent variables in a regression model are highly correlated, affecting the model's reliability. |
+What is the difference between parametric and non-parametric tests? | Parametric tests assume data follows a specific distribution, while non-parametric tests make no such assumption. |
+What is a confidence interval? | A confidence interval is a range of values within which the true population parameter is expected to lie, with a specified level of confidence. |
+What is the difference between a one-tailed and two-tailed test? | A one-tailed test checks for an effect in one direction, while a two-tailed test checks for effects in both directions. |
+What is heteroscedasticity in regression analysis? | Heteroscedasticity refers to non-constant variance of residuals in a regression model. |
+What is an outlier? | An outlier is a data point significantly different from other observations, potentially affecting statistical analysis. |
+What is the difference between descriptive and inferential statistics? | Descriptive statistics summarize data, while inferential statistics make predictions or inferences about a population based on a sample. |
+What is the null hypothesis? | The null hypothesis is a statement that there is no effect or difference, used as a baseline for testing. |
+What is ANOVA? | ANOVA (Analysis of Variance) compares means across multiple groups to determine if at least one is significantly different. |
+What is a z-score? | A z-score indicates how many standard deviations a data point is from the mean. |
+What is a chi-square test? | A chi-square test evaluates the association between categorical variables. |
+What is the purpose of a box plot? | A box plot visualizes the distribution, median, and variability of data, highlighting outliers. |
+What is overfitting in a statistical model? | Overfitting occurs when a model performs well on training data but poorly on unseen data due to excessive complexity. |
+What is a residual in regression analysis? | A residual is the difference between the observed and predicted values in a regression model. |
+What is the difference between a t-test and z-test? | A t-test is used for smaller sample sizes or unknown population variance, while a z-test is used for larger samples with known variance. |
+What is the significance level in hypothesis testing? | The significance level is the threshold for rejecting the null hypothesis, commonly set at 0.05. |
